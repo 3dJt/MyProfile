@@ -3,4 +3,4 @@
 </div>
 
 # 👋 Hi, this is my GitHub profile.
-🌒 I'm from Cheboksary, Russia.
+• 🌒 I'm from Cheboksary, Russia.
